@@ -1,6 +1,6 @@
 body {
     background-image: url("../figuras/forest.jpeg");
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-position: top center;
     background-attachment: fixed;
 }
